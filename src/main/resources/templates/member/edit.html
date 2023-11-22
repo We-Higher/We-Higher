@@ -10,12 +10,14 @@
                 location.href = "/member/del?id=[[${m.id }]]";
             });
         });
+
     </script>
 </head>
 <div layout:fragment="content">
     <th:block layout:fragment="style">
-        <link href="/member/css/edit_form.css" rel="stylesheet">
+        <link href="/member/css/edit.css" rel="stylesheet">
     </th:block>
+                                            <option th:selected=="${m.isMaster}=='1'" value="1">관리자</option>
     <h2 class="mb-4">임직원 수정</h2>
     <form action="/member/edit" method="POST">
         <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>
@@ -114,3 +116,97 @@
     <script src="/member/js/edit_form.js" type='text/javascript'></script>
 </th:block>
 </html>
+
+<!--<h2 class="mb-4">임직원 수정</h2>-->
+<!--<form action="/member/edit" method="POST">-->
+<!--    <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>-->
+<!--    <table border="1" style="text-align: center">-->
+<!--        <tr>-->
+<!--            <th>아이디</th>-->
+<!--            <td><input type="text" name="username" th:value="${m.username}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>패스워드</th>-->
+<!--            <td><input type="password" name="pwd"></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>이름</th>-->
+<!--            <td><input type="text" name="name" th:value="${m.name}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>회사명</th>-->
+<!--            <td><input type="text" name="companyName" th:value="${m.companyName}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>부서명</th>-->
+<!--            <td>-->
+<!--                <select name="deptCode" style="width:150px;" th:value="${m.deptCode}">-->
+<!--                    <option th:selected=="${m.deptCode}=='0'" value="0">총무팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='1'" value="1">인사팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='2'" value="2">법무팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='3'" value="3">마케팅팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='4'" value="4">인프라 서비스팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='5'" value="5">데이터 서비스팀</option>-->
+<!--                    <option th:selected=="${m.deptCode}=='6'" value="6">네트워크 서비스팀</option>-->
+<!--                </select>-->
+<!--            </td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>직급</th>-->
+<!--            <td>-->
+<!--                <select name="companyRank" style="width:150px;" th:value="${m.companyRank}">-->
+<!--                    <option th:selected=="${m.companyRank}=='1'" value="1">사원</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='2'" value="2">대리</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='3'" value="3">과장</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='4'" value="4">차장</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='5'" value="5">부장</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='6'" value="6">상무</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='7'" value="7">전무</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='8'" value="8">대표이사</option>-->
+<!--                    <option th:selected=="${m.companyRank}=='9'" value="9">회장</option>-->
+<!--                </select>-->
+<!--            </td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>사번</th>-->
+<!--            <td><input type="text" name="newNo" th:value="${m.newNo}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>이메일</th>-->
+<!--            <td><input type="email" name="email" th:value="${m.email}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>주소</th>-->
+<!--            <td><input type="text" name="address" th:value="${m.address}"></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>내선전화</th>-->
+<!--            <td><input type="text" name="comCall" th:value="${m.comCall}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>휴대전화</th>-->
+<!--            <td><input type="text" name="phone" th:value="${m.phone}" readonly></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>관리자</th>-->
+<!--            <td>-->
+<!--                <select name="isMaster" style="width:150px;" th:value="${m.isMaster}">-->
+<!--                    <option th:selected=="${m.isMaster}=='0'" value="0">일반회원</option>-->
+<!--                    <option th:selected=="${m.isMaster}=='1'" value="1">관리자</option>-->
+<!--                </select>-->
+<!--            </td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <th>근무여부</th>-->
+<!--            <td><select name="status" style="width:150px;" th:value="${m.status}">-->
+<!--                <option th:selected=="${m.status}=='0'" value="0">재직중</option>-->
+<!--                <option th:selected=="${m.status}=='1'" value="1">퇴사</option>-->
+<!--            </select></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td colspan="2"><input type="submit" class="btn btn-primary" value="수정"><input type="button"-->
+<!--                                                                                           class="btn btn-primary"-->
+<!--                                                                                           id="del" value="탈퇴"></td>-->
+<!--        </tr>-->
+<!--    </table>-->
+<!--</form>-->
