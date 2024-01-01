@@ -1,6 +1,5 @@
-# SpringBoot-Project-We-Higher
-# Rest API + React Project-We-Higher
-스프링 부트 + 그룹웨어
+# SpringBoot+React-Project-We-Higher
+그룹웨어 웹사이트
 
 
 ## 🖥️ 프로젝트 소개
