@@ -24,7 +24,6 @@
 - **Cloud** : AWS
 - **Programming Language** : Java, HTML, CSS, Javascript
 - **ORM** : Spring Data JPA
-![기술스택](https://github.com/devopingz/We-Higher/assets/56243414/075e99dc-cfb2-480f-a1be-8b447067bec1)
 
 ## 📌 주요 기능(새로 작성)
 ![기능정의서](https://github.com/devopingz/We-Higher/assets/56243414/941089fe-1099-4621-8c7b-11c31431f85c)
