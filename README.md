@@ -26,7 +26,8 @@
 - **ORM** : Spring Data JPA
 
 ## 📌 주요 기능(새로 작성)
-![기능정의서](https://github.com/devopingz/We-Higher/assets/56243414/ca223b25-0255-44ef-8937-f340e72f1e94)<br>
+![기능정의서](https://github.com/devopingz/We-Higher/assets/56243414/ca223b25-0255-44ef-8937-f340e72f1e94)
+![공백](https://github.com/devopingz/We-Higher/assets/56243414/c591b3d6-1cd4-4879-8eec-08692f2b7792)
 ![기능정의서2](https://github.com/devopingz/We-Higher/assets/56243414/8ff0b146-7ce4-4abd-b6ec-5aae11373b51)
 
 
