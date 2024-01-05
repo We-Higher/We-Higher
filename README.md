@@ -28,14 +28,12 @@
 #### - **Cloud** : AWS
 #### - **Programming Language** : Java, HTML, CSS, Javascript
 #### - **ORM** : Spring Data JPA
+![techstak](https://github.com/devopingz/We-Higher/assets/56243414/32ebe07a-9a0c-4f10-946d-9e24a830f1dc)</br></br>
 
+---
 ## 📺 개발 과정
 ### ● ERD
 ![erd](https://github.com/devopingz/We-Higher/assets/56243414/6a9da19e-64a2-41c6-96bd-1271aae5b3fd)</br></br>
-
----
-### ● TECH STACK
-![techstak](https://github.com/devopingz/We-Higher/assets/56243414/32ebe07a-9a0c-4f10-946d-9e24a830f1dc)</br></br>
 
 ---
 ### ● Software Architecture
