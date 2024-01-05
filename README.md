@@ -12,7 +12,7 @@
 ---
 ## 🕰️ 개발 기간
 #### ● 2023.11.06일 - 2023.11.30일 (Spring Boot 풀스택 개발)
-#### ● 2023.12.07일 - 2023.12.26일 (Rest API 백엔드 + React 프론트엔드 개발)<br> (https://github.com/We-Higher/rest_we_higher) (https://github.com/We-Higher/front_we_higher)
+#### ● 2023.12.07일 - 2023.12.26일 (Rest API 백엔드 + React 프론트엔드 개발)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(https://github.com/We-Higher/rest_we_higher) (https://github.com/We-Higher/front_we_higher)
 
 ---
 ## 🧑‍🤝‍🧑 멤버구성
@@ -53,19 +53,28 @@
 ![기능정의서2](https://github.com/devopingz/We-Higher/assets/56243414/8ff0b146-7ce4-4abd-b6ec-5aae11373b51)
 
 ---
-## 📌 주요 기능(새로 작성)
+## 📌 주요 기능
+#### ● 로그인
+![login](https://github.com/devopingz/We-Higher/assets/56243414/ba648b3a-a58b-4c77-b825-e8fbf03dd270)
+</br></br>
+
+---
+#### ● 메인페이지
+![main](https://github.com/devopingz/We-Higher/assets/56243414/ee7465ee-5ad1-4e5f-905d-51cfb93afa06)
+</br></br>
+
+---
+#### ● 마이페이지
+![mypage1](https://github.com/devopingz/We-Higher/assets/56243414/88b06a1b-aa62-443e-801a-dd0a352f3e9e)
+![mypage2](https://github.com/devopingz/We-Higher/assets/56243414/41e55ea5-4d7b-404e-b994-ecbffd778fe4)
+</br></br>
 
 
-#### 로그인 - <a href="" >상세보기 - WIKI 이동</a>
-- 
-- 
-- 
-#### 회원가입 - <a href="" >상세보기 - WIKI 이동</a>
-- 
-- 
-#### 마이 페이지 - <a href="" >상세보기 - WIKI 이동</a>
-- 
-- 
-#### 관리자 페이지 
-- 
-- 
+
+
+
+
+
+
+
+
