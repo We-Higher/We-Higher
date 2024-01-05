@@ -1,7 +1,6 @@
 # SpringBoot+React Project We-Higher
 #### ● 한국소프트웨어기술진흥협회 클라우드 관리 서비스(MSP)전문가 양성과정 최종프로젝트 <br>
 #### ● 임직원 관리, 전자결재, 메일, 채팅, 게시판, 자료실, 캘린더, 회의실예약, 근태관리 기능이 있는 그룹웨어 웹 사이트 <br> 
-![GR](https://github.com/devopingz/We-Higher/assets/56243414/51489b3b-49d2-4edb-92eb-3806f8e1b8d5)
 
 ---
 ## 🖥️ 프로젝트 개요
@@ -65,9 +64,9 @@
 
 ---
 #### ● 마이페이지
-![mypage1](https://github.com/devopingz/We-Higher/assets/56243414/88b06a1b-aa62-443e-801a-dd0a352f3e9e)
+![mypage1](https://github.com/devopingz/We-Higher/assets/56243414/635138dc-49da-469e-8500-706a59976e88)
 #### ● 프로필 수정
-![mypage2](https://github.com/devopingz/We-Higher/assets/56243414/41e55ea5-4d7b-404e-b994-ecbffd778fe4)
+![mypage2](https://github.com/devopingz/We-Higher/assets/56243414/ebb9f0f4-fec8-4c7c-a759-66f9da934029)
 </br></br>
 
 ---
@@ -138,7 +137,6 @@
 ![chat1](https://github.com/devopingz/We-Higher/assets/56243414/e60a787c-b60c-47c2-9e32-ada1cacf4c7c)
 #### ● 실시간 채팅
 ![chat2](https://github.com/devopingz/We-Higher/assets/56243414/93fc9134-a678-4118-8b38-fd866e9dd6bd)
-![chat4](https://github.com/devopingz/We-Higher/assets/56243414/a35a76fc-208a-45ce-b6ff-0a91ba4ee7d2)
 </br></br>
 
 ---
