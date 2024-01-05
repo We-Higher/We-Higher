@@ -141,6 +141,31 @@
 #### ● 메일 발송
 ![mail1](https://github.com/devopingz/We-Higher/assets/56243414/8a3b3839-724a-4027-83d1-4585505a165e)
 
+---
+## 프로젝트 후기
+<details>
+<summary>정광배</summary>
+정광배님의 후기
+</details>
+
+
+<details>
+<summary>조홍민</summary>
+정광배님의 후기
+</details>
+
+
+<details>
+<summary>차성욱</summary>
+차성욱님의 후기
+</details>
+
+
+<details>
+<summary>김현주</summary>
+김현주님의 후기
+</details>
+
 
 
 
