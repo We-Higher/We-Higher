@@ -138,6 +138,8 @@
 ![chat1](https://github.com/devopingz/We-Higher/assets/56243414/26c727f5-9c3c-46c4-9d2d-00ec6f501cdb)
 #### ● 채팅방
 ![chat2](https://github.com/devopingz/We-Higher/assets/56243414/011b016d-93a6-4246-a1fe-b63dffb1f038)
+![chat4](https://github.com/devopingz/We-Higher/assets/56243414/a35a76fc-208a-45ce-b6ff-0a91ba4ee7d2)
+
 </br></br>
 
 ---
