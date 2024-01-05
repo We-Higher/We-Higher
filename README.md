@@ -1,7 +1,7 @@
 # SpringBoot+React Project We-Higher
 #### ● 한국소프트웨어기술진흥협회 클라우드 관리 서비스(MSP)전문가 양성과정 최종프로젝트 <br>
 #### ● 임직원 관리, 전자결재, 메일, 채팅, 게시판, 자료실, 캘린더, 회의실예약, 근태관리 기능이 있는 그룹웨어 웹 사이트 <br> 
-![image](https://github.com/devopingz/We-Higher/assets/56243414/f6450c5d-175b-48d5-8d20-1faf7d2e2adb)
+![GR](https://github.com/devopingz/We-Higher/assets/56243414/51489b3b-49d2-4edb-92eb-3806f8e1b8d5)
 
 ---
 ## 🖥️ 프로젝트 개요
@@ -33,12 +33,20 @@
 ## 📺 개발 과정
 ### ● ERD
 ![erd](https://github.com/devopingz/We-Higher/assets/56243414/6a9da19e-64a2-41c6-96bd-1271aae5b3fd)</br></br>
+
+---
 ### ● TECH STACK
 ![techstak](https://github.com/devopingz/We-Higher/assets/56243414/32ebe07a-9a0c-4f10-946d-9e24a830f1dc)</br></br>
+
+---
 ### ● Software Architecture
 ![swarc](https://github.com/devopingz/We-Higher/assets/56243414/354c875c-c2cd-43f0-9d3a-90f74364b2af)</br></br>
+
+---
 ### ● EC2 HTTPS 및 로드밸런서 적용
 ![https](https://github.com/devopingz/We-Higher/assets/56243414/9cbf43f3-856d-44b4-b305-709ad6a744c4)</br></br>
+
+---
 ### ● 기능정의서
 ![기능정의서](https://github.com/devopingz/We-Higher/assets/56243414/941089fe-1099-4621-8c7b-11c31431f85c)
 ![공백](https://github.com/devopingz/We-Higher/assets/56243414/c591b3d6-1cd4-4879-8eec-08692f2b7792)
