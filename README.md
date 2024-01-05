@@ -70,6 +70,44 @@
 ![mypage2](https://github.com/devopingz/We-Higher/assets/56243414/41e55ea5-4d7b-404e-b994-ecbffd778fe4)
 </br></br>
 
+---
+#### ● 임직원목록
+![emp1](https://github.com/devopingz/We-Higher/assets/56243414/1a0a4c5d-7917-4d39-bc87-83ed65b104e5)
+#### ● 회원가입
+![emp2](https://github.com/devopingz/We-Higher/assets/56243414/df35e543-394b-471c-b276-1ee2e3479de3)
+</br></br>
+
+---
+#### ● 전자결재(품의서 기안)
+![app1](https://github.com/devopingz/We-Higher/assets/56243414/c6cf9f02-6b62-4dab-a267-040a8c5401c2)
+#### ● 전자결재(지출결의서 기안)
+![app2](https://github.com/devopingz/We-Higher/assets/56243414/4e23448c-07f1-4a29-bd26-d57e004fae9b)
+#### ● 전자결재(휴가원 기안)
+![app3](https://github.com/devopingz/We-Higher/assets/56243414/7c82ae05-7f0b-4762-b7df-3b2ed24b1d19)
+#### ● 기안된 결재문서
+![app4](https://github.com/devopingz/We-Higher/assets/56243414/66e9e134-1856-4d44-a83d-1d814d46437c)
+#### ● 기안한 문서
+![app5](https://github.com/devopingz/We-Higher/assets/56243414/3c37b616-ff62-4484-90bf-1ee012f3d72c)
+#### ● 처리할 결재문서
+![app6](https://github.com/devopingz/We-Higher/assets/56243414/495b36df-753a-4134-950a-bc7a05eed4f1)
+#### ● 반려된 문서
+![app7](https://github.com/devopingz/We-Higher/assets/56243414/70bb7b30-7244-42dd-9aa6-8be2a261e97b)
+#### ● 품의서, 지출결의서, 휴가신청서 최종승인
+![app8](https://github.com/devopingz/We-Higher/assets/56243414/1d21c875-d4cd-4bdf-bab1-aca6d3ecef38)
+#### ● 품의서, 지출결의서, 휴가신청서 반려
+![app9](https://github.com/devopingz/We-Higher/assets/56243414/d166b28f-27a0-4149-ab12-0b5c3a65b0f6)
+</br></br>
+
+---
+#### ● 근태관리
+![co1](https://github.com/devopingz/We-Higher/assets/56243414/f1fbb1be-d4c8-4a01-9560-5f5af45b7cea)
+#### ● 내 출퇴근 이력
+![co2](https://github.com/devopingz/We-Higher/assets/56243414/13c62f65-d462-46e8-a97c-9c3e61af9486)
+#### ● 근태수정 요청목록
+![co3](https://github.com/devopingz/We-Higher/assets/56243414/83f8eec4-318d-4bea-b321-a8681e381436)
+</br></br>
+
+
 
 
 
