@@ -109,42 +109,42 @@
 
 ---
 #### ● 자료실
-![down1](https://github.com/devopingz/We-Higher/assets/56243414/37370a4e-4521-465e-b7a9-e2094890fa1d)
+![down1](https://github.com/devopingz/We-Higher/assets/56243414/6c3e275f-ac7a-4ece-8aa5-9a64e0ef3401)
 #### ● 자료 올리기
-![down2](https://github.com/devopingz/We-Higher/assets/56243414/bf4ab869-5014-47b5-9b9d-e62d0e48dc1f)
+![down2](https://github.com/devopingz/We-Higher/assets/56243414/3e8760ad-f041-42cc-b9de-e967ebc2cc04)
 #### ● 자료 수정
-![down3](https://github.com/devopingz/We-Higher/assets/56243414/9a9ec487-cd87-4ea1-8976-baa83daef849)
+![down3](https://github.com/devopingz/We-Higher/assets/56243414/40fe12a6-2e70-4656-9eba-6d860d27df06)
 #### ● 자료실 상세페이지
-![down4](https://github.com/devopingz/We-Higher/assets/56243414/34c52a81-89fc-4c7f-93cd-dbdd3e751521)
+![down4](https://github.com/devopingz/We-Higher/assets/56243414/371f9bbb-d95c-475c-b00a-c368b491e7f8)
 </br></br>
 
 ---
 #### ● 게시판
-![board1](https://github.com/devopingz/We-Higher/assets/56243414/1bc4f2bc-00e8-4dd2-9741-c3dfb0bcd6d3)
+![board1](https://github.com/devopingz/We-Higher/assets/56243414/b9db8380-5ab7-4dd8-82f6-6100de4b60b1)
 #### ● 게시글 작성
-![board2](https://github.com/devopingz/We-Higher/assets/56243414/721a8482-2e5a-4a8c-811e-4d154e81c67f)
+![board2](https://github.com/devopingz/We-Higher/assets/56243414/e2869d83-25af-49fe-a9ff-6ee65447674a)
 #### ● 게시글 수정
-![board3](https://github.com/devopingz/We-Higher/assets/56243414/4e051478-f4db-4d00-bcfc-ff1ffba0c936)
+![board3](https://github.com/devopingz/We-Higher/assets/56243414/c46f764d-4e6b-45e5-8006-b4301c4b047d)
 #### ● 게시판 상세페이지
-![board4](https://github.com/devopingz/We-Higher/assets/56243414/62a1d7ed-7584-4404-aba3-e236143a35fd)
+![board4](https://github.com/devopingz/We-Higher/assets/56243414/cbd608c1-8a54-41e1-87f6-4bb9b2266ee8)
 </br></br>
 
 ---
 #### ● 캘린더
-![cal1](https://github.com/devopingz/We-Higher/assets/56243414/a3939456-afc7-497f-8eb8-8626cbb21bae)
+![cal1](https://github.com/devopingz/We-Higher/assets/56243414/a95d5ff9-4e8b-4bfb-9989-2cd7a80ae7ad)
 #### ● 회의실 예약
-![cal2](https://github.com/devopingz/We-Higher/assets/56243414/941b9f9b-382a-4dda-82cf-19eb7065a742)
-#### ● 채팅 홈
-![chat1](https://github.com/devopingz/We-Higher/assets/56243414/26c727f5-9c3c-46c4-9d2d-00ec6f501cdb)
-#### ● 채팅방
-![chat2](https://github.com/devopingz/We-Higher/assets/56243414/011b016d-93a6-4246-a1fe-b63dffb1f038)
+![cal2](https://github.com/devopingz/We-Higher/assets/56243414/6dd090c0-3f1d-44a8-a728-72d46341aa44)
+#### ● 채팅방 개설
+![chat1](https://github.com/devopingz/We-Higher/assets/56243414/e60a787c-b60c-47c2-9e32-ada1cacf4c7c)
+#### ● 실시간 채팅
+![chat2](https://github.com/devopingz/We-Higher/assets/56243414/93fc9134-a678-4118-8b38-fd866e9dd6bd)
 ![chat4](https://github.com/devopingz/We-Higher/assets/56243414/a35a76fc-208a-45ce-b6ff-0a91ba4ee7d2)
-
 </br></br>
 
 ---
 #### ● 메일 발송
-![mail1](https://github.com/devopingz/We-Higher/assets/56243414/2fbe1191-6233-43b6-9551-3cf8507d84e5)
+![mail1](https://github.com/devopingz/We-Higher/assets/56243414/8a3b3839-724a-4027-83d1-4585505a165e)
+
 
 
 
