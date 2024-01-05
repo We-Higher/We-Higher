@@ -1,6 +1,7 @@
 # SpringBoot+React Project We-Higher
 #### ● 한국소프트웨어기술진흥협회 클라우드 관리 서비스(MSP)전문가 양성과정 최종프로젝트 <br>
 #### ● 임직원 관리, 전자결재, 메일, 채팅, 게시판, 자료실, 캘린더, 회의실예약, 근태관리 기능이 있는 그룹웨어 웹 사이트 <br> 
+![wehigher](https://github.com/devopingz/We-Higher/assets/56243414/93ae4e21-5cd1-4c0f-9866-c32c0970b014)
 
 ---
 ## 🖥️ 프로젝트 개요
