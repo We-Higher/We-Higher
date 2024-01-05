@@ -12,7 +12,7 @@
 ---
 ## 🕰️ 개발 기간
 #### ● 2023.11.06일 - 2023.11.30일 (Spring Boot 풀스택 개발)
-#### ● 2023.12.07일 - 2023.12.26일 (Rest API 백엔드 + React 프론트엔드 개발)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(https://github.com/We-Higher/rest_we_higher) (https://github.com/We-Higher/front_we_higher)
+#### ● 2023.12.07일 - 2023.12.26일 (Rest API 백엔드 + React 프론트엔드 개발)<br> &nbsp;&nbsp;&nbsp;(https://github.com/We-Higher/rest_we_higher) (https://github.com/We-Higher/front_we_higher)
 
 ---
 ## 🧑‍🤝‍🧑 멤버구성
@@ -66,6 +66,7 @@
 ---
 #### ● 마이페이지
 ![mypage1](https://github.com/devopingz/We-Higher/assets/56243414/88b06a1b-aa62-443e-801a-dd0a352f3e9e)
+#### ● 프로필 수정
 ![mypage2](https://github.com/devopingz/We-Higher/assets/56243414/41e55ea5-4d7b-404e-b994-ecbffd778fe4)
 </br></br>
 
